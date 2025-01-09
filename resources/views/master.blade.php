@@ -13,9 +13,7 @@
         <div class="container mx-auto flex justify-between items-center">
             <h1 class="text-xl font-bold">My Responsive App</h1>
             <nav class="space-x-4">
-                <a href="#" class="hover:underline">Permissions</a>
-                <a href="#" class="hover:underline">Roles</a>
-                <a href="#" class="hover:underline">Products</a>
+               nothing special 
             </nav>
         </div>
     </header>
